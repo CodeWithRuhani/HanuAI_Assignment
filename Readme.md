@@ -1,5 +1,9 @@
 # HanuAI Assignment
 
+## Highlights
+- End-to-end AI/ML pipeline
+- Business-focused insights using NLP & EDA
+
 ## Overview
 This project includes:
 1. Web Scraping + Sentiment Analysis
